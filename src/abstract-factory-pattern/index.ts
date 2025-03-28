@@ -7,7 +7,7 @@ abstract class Button {
 }
 
 
-// 要求に基づいてTextFiledを追加する
+// 要求に基づいてTextFieldを追加する
 // demoなので関数は少し適当
 abstract class TextField {
   abstract renderText():void;
